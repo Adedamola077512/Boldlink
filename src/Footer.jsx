@@ -25,7 +25,7 @@ const courses = ["Web Design", "Apps Design", "Database", "Research", "SEO"];
 
 const Footer = () => {
   return (
-    <footer className="footer text-light py-5">
+    <footer className="footer text-light py-5 mt-5">
       <Container>
         <Row className="gy-4">
           {/* Contact Info */}
