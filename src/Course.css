@@ -73,8 +73,7 @@
 
 @media only screen and (max-width: 768px){
   .rows {
-    margin-left: -50px;
-    display: none;
+    margin-left: -7px;
   }
   .Explores {
     font-size: 30px;
