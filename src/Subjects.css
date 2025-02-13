@@ -54,11 +54,12 @@
   }
   
 
-  @media only screen and (max-width: 600px) {
+
+  @media only screen and (max-width: 600px){
     .Explore {
-        font-size: 35px;
-        line-height: 1.2;
-        margin-bottom: 10px;
-        font-weight: 500;
-    }
+      font-size: 33px;
+      line-height: 1.2;
+      margin-bottom: 10px;
+      font-weight: 500;
   }
+  } 

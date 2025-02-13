@@ -28,9 +28,9 @@ const Course = () => {
         <h3>COURSES</h3>
         <h1 className="Explores"><b>Our Popular Courses</b></h1>
       </div>
-      <div className=" row my-5 g-4 rows">
+      <div className=" row my-5 g-4">
         {courses.map((popular, index) => (
-          <div key={index} className="col-md-4 ">
+          <div key={index} className="col-md-4 rows">
             <div className="courseard">
               <div 
                 className="courseImage" 

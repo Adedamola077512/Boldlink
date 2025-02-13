@@ -78,9 +78,14 @@
   
 @media only screen and (max-width: 600px) {
 #left{
-  margin-left: 318px;
+  position: absolute;
+  right: 0;
+  top: 15px;
+  width: 10px;
+  ;
+  /* margin-left: 318px;
   overflow: hidden;
-  margin-top: -45px;
+  margin-top: -45px; */
 }
 /* Mobile Menu */
 .mobile-menu {

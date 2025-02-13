@@ -70,9 +70,11 @@
 
 
 
-@media screen and (max-width: 600px) {
+
+@media only screen and (max-width: 768px){
   .rows {
-    margin: 0;
+    margin-left: -50px;
+    display: none;
   }
   .Explores {
     font-size: 30px;

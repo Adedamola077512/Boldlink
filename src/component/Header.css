@@ -18,13 +18,11 @@
 
 
 /* Media query for smaller screens */
-@media (max-width: 1000px){
+@media screen and (max-width: 768px){
     /* Adjust margins and font sizes for smaller screens */
-    .main{
-        /* margin-left: 20px; */
-        margin-left: 0px;
-        margin-top: -5px;
-        float: left;
+    .main{        
+        margin-left: -20px;
+        float: left; 
     }
     .none{
         display: none;

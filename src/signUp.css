@@ -107,42 +107,53 @@
   }
 
 
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 768px){
     .signin {
-        height: 680px;
-        background-image: url("../src/assets/course-3.jpg");
-        background-size: cover;
-        background-position: center;
-        align-items: center;
-        display: flex;
-        padding: 20px;
-        width: 100%;
-    }
-    .sign-content {
-        flex-direction: column;
-        justify-content: center;
-        margin-top: 10px;
-        gap: 10px;
-        align-items: center;
-    }
-    .color-content {
-        width: 100%;
-        height: 50px;
-        color: #333244;
-    }
-    .Yourname {
-        width: 355px;
-        height: 300px;
-        color: #333244;
-    }
-    .input-field {
-      margin-bottom: 5px;
-      width: 300px;
-    }
-    .custom-select {
+      margin-top: 0;
+      height: 720px;
+      background-image: url("../src/assets/course-3.jpg");
+      background-size: cover;
+      background-position: center;
+      align-items: center;
+      display: flex;
+      padding: 20px;
       width: 100%;
-    }
-    .Invidunt {
-      margin: 0px 0px 16px;
-    }
   }
+  .Off {
+    /* color: #d95700; */
+    font: bold;
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  #Information {
+      flex-direction: column;
+      display: grid; 
+      justify-content: center;
+      margin-top: 10px;
+      gap: 10px;
+      align-items: center;
+  }
+  .color-content {
+      width: 100%;
+      height: 50px;
+      color: #333244;
+  }
+  .Yourname {
+      /* width: 355px; */
+      width: 100%;
+      /* height: 400px; */
+      color: #333244;
+      height: 300px;
+      color: #333244;
+  }
+  .input-field {
+    margin-bottom: 5px;
+    width: 300px;
+  }
+  .custom-select {
+    width: 100%;
+  }
+  .Invidunt {
+    margin: 0px 0px 16px;
+  }
+}

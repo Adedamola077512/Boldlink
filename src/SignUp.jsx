@@ -8,11 +8,11 @@ const SignUp = () => {
       <div className="sign"></div>
 
       {/* Content Section */}
-      <div className="sign-content">
+      <div className="sign-content" id="Information">
         {/* Offer and Information Section */}
         <div className="need-content">
           <h5 className="need">NEED ANY COURSES</h5>
-          <h1>
+          <h1 className="Off">
             <b>30% Off For New Students</b>
           </h1>
           <p className="Invidunt">
