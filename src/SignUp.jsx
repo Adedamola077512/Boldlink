@@ -13,23 +13,17 @@ const SignUp = () => {
         <div className="need-content">
           <h5 className="need">NEED ANY COURSES</h5>
           <h1 className="Off">
-            <b>30% Off For New Students</b>
+            <b>Sign up today and get 30% off <br />
+            your first course.</b>
           </h1>
-          <p className="Invidunt">
-            Invidunt lorem justo sanctus clita. Erat lorem labore ea, justo dolor lorem ipsum ut sed eos,
-            <br />
-            ipsum et dolor kasd sit ea justo. Erat justo sed sed diam. Ea et erat
-            <br />
-            ut sed diam sea ipsum est dolor
+          <p>
+            <span className="marks">✔</span> Web Design
           </p>
           <p>
-            <span className="marks">✔</span> Labore eos amet dolor amet diam
+            <span className="marks">✔</span> Web Development
           </p>
           <p>
-            <span className="marks">✔</span> Etsea et sit dolor amet ipsum
-          </p>
-          <p>
-            <span className="marks">✔</span> Diam dolor diam elitripsum vero.
+            <span className="marks">✔</span> Database
           </p>
         </div>
 
