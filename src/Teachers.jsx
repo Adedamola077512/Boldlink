@@ -12,7 +12,7 @@ import team4 from "./assets/dami.jpg";
 
 
 const courses = [
-  { title: "MR Yaqub Adesola", image: " https://media.licdn.com/dms/image/v2/D4D35AQGBWNAKesNcPw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1725422513522?e=1739880000&v=beta&t=q2kQ5-u1yP8or9C2LLzhWsn_qE3p6tv2mp-l0lMuhqE"},
+  { title: "MR Yaqub Adesola", image: " https://media.licdn.com/dms/image/v2/D4D35AQGBWNAKesNcPw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1725422513522?e=1740564000&v=beta&t=7IuUK9RQ2x6r-cWfWzHXBEIGPICQU_aheA5-kTCqy84"},
   { title: "Adeyemo Olamide", image: " https://media.licdn.com/dms/image/v2/D4D03AQHaUvQVvbOg2g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668854393551?e=1744848000&v=beta&t=Pf1O09wkWhRPEyvyPcc3t-W9Mw-LhJ_3heWjmCfroao " },
   { title: "Mr Tunde", image: team3 },
   { title: "Damilola", image: team4 },
