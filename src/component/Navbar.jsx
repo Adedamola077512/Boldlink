@@ -53,14 +53,14 @@ const Navbar = () => {
         {/* Navbar Links for Desktop */}
         <div className={`nav-links d-none d-md-flex align-items-center`}>
           <a href="#" className="nav-link-custom active">Home</a>
-          <a href="#" className="nav-link-custom">About</a>
-          <a href="#" className="nav-link-custom">Courses</a>
-          <a href="#" className="nav-link-custom">Teachers</a>
+          <a href="#about" className="nav-link-custom">About</a>
+          <a href="#Courses" className="nav-link-custom">Courses</a>
+          <a href="#Teachers" className="nav-link-custom">Teachers</a>
           <a href="#" className="nav-link-custom">Contact</a>
         </div>
 
         {/* Join Now Button */}
-        <Button className="btn-orange ms-3 d-none d-md-block px-4 py-2">Join Now</Button>
+        <Button className="btn-orange ms-3 d-none d-md-block px-4 py-2"><a href="#join">Join Now</a></Button>
       </Container>
 
       {/* Mobile Dropdown Menu */}

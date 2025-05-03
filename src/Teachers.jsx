@@ -19,7 +19,7 @@ const courses = [
   ];
 const Teachers = () => {
     return (
-        <div className="container my-5" id='meet'>
+        <div className="container my-5 meet" id="Teachers">
           <div className="Subject text-center">
             <h3>T e a c h e r s</h3>
             <h1 className="Explores"><b>Meet Our Teachers</b></h1>

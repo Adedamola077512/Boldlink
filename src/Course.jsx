@@ -23,7 +23,7 @@ const courses = [
 
 const Course = () => {
   return (
-    <div className="container my-5 mt-5 my">
+    <div className="container my-5 mt-5 my" id="Courses">
       <div className="Subject text-center">
         <h3>COURSES</h3>
         <h1 className="Explores"><b>Our Popular Courses</b></h1>

@@ -3,7 +3,7 @@ import "./signUp.css";
 
 const SignUp = () => {
   return (
-    <div className="signin">
+    <div className="signin" id="join">
       {/* Background Section */}
       <div className="sign"></div>
 
